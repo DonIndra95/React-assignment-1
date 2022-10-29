@@ -9,7 +9,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route
-            path="/"
+            path="/react-assignment-1"
             element={
               <div>
                 <p
