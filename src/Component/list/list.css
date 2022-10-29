@@ -1,0 +1,11 @@
+.student-list {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid blue;
+    width: fit-content
+}
+
+.student-list h1{
+    color: red;
+    text-decoration: underline;
+}

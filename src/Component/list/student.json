@@ -1,0 +1,7 @@
+[
+  { "name": "John Doe", "age": 27, "gender": "Male" },
+  { "name": "Rahul Kumar", "age": 27, "gender": "Male" },
+  { "name": "Ravi Verma", "age": 27, "gender": "Male" },
+  { "name": "Shyam Singh", "age": 27, "gender": "Male" },
+  { "name": "Varun Kumar", "age": 27, "gender": "Male" }
+]

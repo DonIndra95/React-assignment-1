@@ -1,0 +1,27 @@
+.result-component {
+    margin: 20px;
+    border: 2px solid blue;
+    width: fit-content;
+    background-color: aqua;
+}
+
+.result-component h3 {
+    text-decoration: underline;
+    padding: 5px;
+    color: brown;
+}
+
+.result-component p {
+    padding: 5px;
+    color: black;
+    text-decoration: solid;
+}
+
+.class-form {
+    margin: 20px;
+    border: 5px solid rgb(10, 180, 210);
+    background-color: aquamarine;
+    padding: 10px;
+    max-width: 500px;
+    color: black;
+}
